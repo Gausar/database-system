@@ -74,4 +74,3 @@ for url in car_set:
      for car in car_list:
         writer.writerow([title, price])
     
-
